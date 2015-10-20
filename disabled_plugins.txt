@@ -1,0 +1,13 @@
+XPathView
+XSLT-Debugger
+CVS
+cucumber-javascript
+org.jetbrains.plugins.haml
+org.editorconfig.editorconfigjetbrains
+org.jetbrains.plugins.textmate
+com.jetbrains.plugins.asp
+Subversion
+com.github.masahirosuzuka.PhoneGapIntelliJPlugin
+PerforceDirectPlugin
+Dart
+cucumber

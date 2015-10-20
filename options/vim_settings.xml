@@ -1,0 +1,510 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/.vimrc" timestamp="1445098731809">
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="[" line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/confirm_identity.js" timestamp="1445007339992">
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/keep_mymercy_alive.js" timestamp="1445276745061">
+        <mark key="]" line="2" column="48" />
+        <mark key="^" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+        <mark key="[" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/public/example/views/example.client.view.html" timestamp="1445102195531">
+        <mark key="]" line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+        <mark key="[" line="9" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/support-test.js" timestamp="1444854986079">
+        <mark key="]" line="57" column="50" />
+        <mark key="^" line="57" column="50" />
+        <mark key="." line="57" column="50" />
+        <mark key="[" line="57" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/public/chat/chat.client.module.js" timestamp="1445097748376">
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="[" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/config/socketio.js" timestamp="1445102357979">
+        <mark key="]" line="9" column="49" />
+        <mark key="^" line="9" column="49" />
+        <mark key="." line="18" column="13" />
+        <mark key="[" line="9" column="49" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/app/index.html" timestamp="1445263420978">
+        <mark key="'" line="46" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/public/chat/config/chat.client.routes.js" timestamp="1445101689742">
+        <mark key="[" line="4" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/app/scripts/directives/scroll_to_element.js" timestamp="1444857286531">
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="[" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/keep_alive_service-test.js" timestamp="1445263478791">
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+        <mark key="[" line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/user-input-service-test.js" timestamp="1444856644909">
+        <mark key="]" line="25" column="4" />
+        <mark key="^" line="25" column="4" />
+        <mark key="." line="25" column="4" />
+        <mark key="[" line="25" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/public/chat/services/socket.client.service.js" timestamp="1445139157246">
+        <mark key="'" line="8" column="11" />
+        <mark key="]" line="10" column="12" />
+        <mark key="^" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="[" line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/app/scripts/routes.js" timestamp="1445264395300">
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="[" line="115" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/test/articles.client.controller.unit.tests.js" timestamp="1445225595007">
+        <mark key="'" line="47" column="3" />
+        <mark key="[" line="59" column="53" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/forgot_password.js" timestamp="1444856891599">
+        <mark key="]" line="33" column="3" />
+        <mark key="^" line="30" column="17" />
+        <mark key="." line="33" column="3" />
+        <mark key="[" line="33" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/login.js" timestamp="1444918664221">
+        <mark key="]" line="82" column="47" />
+        <mark key="^" line="82" column="47" />
+        <mark key="." line="82" column="47" />
+        <mark key="[" line="82" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/app/tests/article.server.model.tests.js" timestamp="1445208546801">
+        <mark key="'" line="49" column="2" />
+        <mark key="]" line="11" column="26" />
+        <mark key="^" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+        <mark key="[" line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/test/spec/directives/scroll-to-element-test.js" timestamp="1444857201207">
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="[" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/app/scripts/services/user_input.js" timestamp="1444915947578">
+        <mark key="]" line="7" column="39" />
+        <mark key="^" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+        <mark key="[" line="7" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/support_request.js" timestamp="1444856983051">
+        <mark key="]" line="35" column="3" />
+        <mark key="^" line="32" column="38" />
+        <mark key="." line="35" column="3" />
+        <mark key="[" line="35" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/app/tests/articles.server.controller.tests.js" timestamp="1445209616906">
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="[" line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/app/controllers/chat.server.controller.js" timestamp="1445203293649">
+        <mark key="'" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/app/partials/login.html" timestamp="1444918448348">
+        <mark key="]" line="27" column="52" />
+        <mark key="^" line="27" column="52" />
+        <mark key="." line="27" column="52" />
+        <mark key="[" line="27" column="50" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/keep_alive_service-test.js" timestamp="1445280488632">
+        <mark key="]" line="31" column="23" />
+        <mark key="^" line="31" column="23" />
+        <mark key="." line="31" column="23" />
+        <mark key="[" line="31" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/public/chat/views/chat.client.view.html" timestamp="1445101466467">
+        <mark key="]" line="16" column="45" />
+        <mark key="^" line="16" column="45" />
+        <mark key="." line="16" column="45" />
+        <mark key="[" line="16" column="45" />
+      </file>
+      <file name="/Mongo Console" timestamp="1445052000528">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/grant_access.js" timestamp="1444854071681">
+        <mark key="]" line="33" column="45" />
+        <mark key="^" line="33" column="45" />
+        <mark key="." line="33" column="45" />
+        <mark key="[" line="33" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/app/scripts/services/authentication_service.js" timestamp="1445281157336">
+        <mark key="'" line="42" column="68" />
+        <mark key="]" line="32" column="17" />
+        <mark key="^" line="32" column="17" />
+        <mark key="." line="32" column="17" />
+        <mark key="[" line="32" column="11" />
+      </file>
+      <file name="/" timestamp="1445057624026">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/karma.conf.js" timestamp="1445223430820">
+        <mark key="'" line="115" column="2" />
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+        <mark key="[" line="17" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/keep_mychart_service-test.js" timestamp="1444856633800">
+        <mark key="]" line="22" column="39" />
+        <mark key="^" line="22" column="39" />
+        <mark key="." line="22" column="39" />
+        <mark key="[" line="22" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/authentication_service-test.js" timestamp="1445279214811">
+        <mark key="'" line="3" column="93" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1445260223847">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/config/env/test.js" timestamp="1445203991870">
+        <mark key="]" line="3" column="40" />
+        <mark key="^" line="3" column="40" />
+        <mark key="." line="3" column="40" />
+        <mark key="[" line="3" column="7" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1445098718481">
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="[" line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/registration.js" timestamp="1445009600739">
+        <mark key="]" line="4" column="193" />
+        <mark key="^" line="230" column="38" />
+        <mark key="." line="4" column="193" />
+        <mark key="[" line="4" column="193" />
+      </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/app/views/index.ejs" timestamp="1445201788319">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="83" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/app/scripts/services/target_url_service.js" timestamp="1444857178404">
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="[" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/app/styles/wtf.css" timestamp="1444877616333">
+        <mark key="[" line="28" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/public/application.js" timestamp="1445102139761">
+        <mark key="]" line="4" column="91" />
+        <mark key="^" line="4" column="91" />
+        <mark key="." line="4" column="91" />
+        <mark key="[" line="4" column="85" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/app/scripts/services/keep_mychart_alive_service.js" timestamp="1445262191420">
+        <mark key="]" line="2" column="35" />
+        <mark key="^" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+        <mark key="[" line="2" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/app/controllers/articles.server.controller.js" timestamp="1445198694239">
+        <mark key="'" line="63" column="4" />
+        <mark key="]" line="22" column="54" />
+        <mark key="^" line="22" column="54" />
+        <mark key="." line="22" column="54" />
+        <mark key="[" line="22" column="53" />
+      </file>
+      <file name="$USER_HOME$/dev/.eslintrc" timestamp="1445098217508">
+        <mark key="'" line="45" column="23" />
+        <mark key="]" line="73" column="20" />
+        <mark key="^" line="45" column="23" />
+        <mark key="." line="73" column="20" />
+        <mark key="[" line="73" column="19" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="15" column="16" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/grant_access-test.js" />
+      <jump line="12" column="29" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/authentication_service-test.js" />
+      <jump line="91" column="0" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/authentication_service-test.js" />
+      <jump line="5" column="129" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/emulate_user.js" />
+      <jump line="14" column="70" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/login.js" />
+      <jump line="165" column="50" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/registration.js" />
+      <jump line="17" column="48" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/registration.js" />
+      <jump line="55" column="22" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/services/authentication_service.js" />
+      <jump line="25" column="25" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/account_access-test.js" />
+      <jump line="188" column="30" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/confirm_identity-test.js" />
+      <jump line="59" column="20" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/confirm_identity-test.js" />
+      <jump line="23" column="30" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/confirm_identity.js" />
+      <jump line="98" column="30" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/confirm_identity-test.js" />
+      <jump line="125" column="37" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/confirm_identity-test.js" />
+      <jump line="104" column="0" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/grant_access-test.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/grant_access-test.js" />
+      <jump line="16" column="3" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/login-test.js" />
+      <jump line="50" column="27" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/login-test.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/registration-test.js" />
+      <jump line="409" column="28" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/registration-test.js" />
+      <jump line="201" column="69" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/authentication_service-test.js" />
+      <jump line="63" column="47" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/support_request-test.js" />
+      <jump line="86" column="8" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/login.js" />
+      <jump line="19" column="8" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/services/authentication_service.js" />
+      <jump line="119" column="7" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/registration-test.js" />
+      <jump line="44" column="68" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/authentication_service-test.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/add_dependent-test.js" />
+      <jump line="88" column="51" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/login-test.js" />
+      <jump line="123" column="91" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/add_dependent-test.js" />
+      <jump line="79" column="12" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/emulate_users-test.js" />
+      <jump line="211" column="0" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/authentication_service-test.js" />
+      <jump line="40" column="18" filename="$USER_HOME$/dev/projects/mymercyweb/eslint.json" />
+      <jump line="82" column="23" filename="$USER_HOME$/dev/projects/mymercyweb/eslint.json" />
+      <jump line="20" column="36" filename="$USER_HOME$/dev/projects/mymercyweb/eslint.json" />
+      <jump line="41" column="10" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/login-test.js" />
+      <jump line="588" column="6" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/registration-test.js" />
+      <jump line="110" column="53" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/authentication_service-test.js" />
+      <jump line="179" column="17" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/registration.js" />
+      <jump line="118" column="11" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/registration.js" />
+      <jump line="120" column="4" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/registration.js" />
+      <jump line="111" column="14" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/confirm_identity-test.js" />
+      <jump line="81" column="12" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/confirm_identity-test.js" />
+      <jump line="24" column="53" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/authentication_service-test.js" />
+      <jump line="107" column="32" filename="$USER_HOME$/dev/projects/mymercyweb/eslint.json" />
+      <jump line="12" column="12" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/services/authentication_service.js" />
+      <jump line="26" column="17" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/forgot_user_id.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/forgot_user_id.js" />
+      <jump line="9" column="8" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/forgot_user_id.js" />
+      <jump line="20" column="7" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/forgot_user_id.js" />
+      <jump line="5" column="4" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/forgot_user_id.js" />
+      <jump line="31" column="28" filename="$USER_HOME$/dev/learning/mean-ch9-2/config/express.js" />
+      <jump line="8" column="4" filename="$USER_HOME$/dev/learning/mean-ch9-2/config/express.js" />
+      <jump line="218" column="47" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/registration.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/controllers/articles.client.controller.js" />
+      <jump line="48" column="6" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/controllers/articles.client.controller.js" />
+      <jump line="16" column="8" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/controllers/articles.client.controller.js" />
+      <jump line="47" column="6" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/controllers/articles.client.controller.js" />
+      <jump line="45" column="8" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/controllers/articles.client.controller.js" />
+      <jump line="92" column="38" filename="$USER_HOME$/dev/learning/mean-ch9-2/app/controllers/articles.server.controller.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/learning/mean-ch9-2/app/controllers/articles.server.controller.js" />
+      <jump line="31" column="16" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/controllers/articles.client.controller.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/controllers/articles.client.controller.js" />
+      <jump line="25" column="36" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/controllers/articles.client.controller.js" />
+      <jump line="55" column="2" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/controllers/articles.client.controller.js" />
+      <jump line="45" column="23" filename="$USER_HOME$/dev/.eslintrc" />
+      <jump line="31" column="5" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/chat/services/socket.client.service.js" />
+      <jump line="6" column="3" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/chat/services/socket.client.service.js" />
+      <jump line="8" column="11" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/chat/services/socket.client.service.js" />
+      <jump line="26" column="4" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/chat/services/socket.client.service.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/chat/controllers/chat.client.controller.js" />
+      <jump line="26" column="2" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/chat/controllers/chat.client.controller.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/learning/mean-ch9-2/app/controllers/chat.server.controller.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/learning/mean-ch9-2/app/controllers/chat.server.controller.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/learning/mean-ch9-2/app/controllers/chat.server.controller.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/learning/mean-ch9-2/app/controllers/chat.server.controller.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/learning/mean-ch9-2/app/controllers/chat.server.controller.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/learning/mean-ch9-2/app/controllers/chat.server.controller.js" />
+      <jump line="16" column="2" filename="$USER_HOME$/dev/learning/mean-ch9-2/app/controllers/chat.server.controller.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/learning/mean-ch9-2/app/controllers/chat.server.controller.js" />
+      <jump line="61" column="11" filename="$USER_HOME$/dev/learning/mean-ch9-2/app/controllers/articles.server.controller.js" />
+      <jump line="103" column="2" filename="$USER_HOME$/dev/learning/mean-ch9-2/app/controllers/articles.server.controller.js" />
+      <jump line="63" column="4" filename="$USER_HOME$/dev/learning/mean-ch9-2/app/controllers/articles.server.controller.js" />
+      <jump line="8" column="26" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/chat/controllers/chat.client.controller.js" />
+      <jump line="2" column="17" filename="$USER_HOME$/dev/learning/mean-ch9-2/app/controllers/chat.server.controller.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/learning/mean-ch9-2/app/views/index.ejs" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/learning/mean-ch9-2/app/views/index.ejs" />
+      <jump line="44" column="8" filename="$USER_HOME$/dev/learning/mean-ch9-2/app/tests/article.server.model.tests.js" />
+      <jump line="50" column="2" filename="$USER_HOME$/dev/learning/mean-ch9-2/app/tests/article.server.model.tests.js" />
+      <jump line="46" column="3" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/test/articles.client.controller.unit.tests.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/learning/mean-ch9-2/karma.conf.js" />
+      <jump line="97" column="2" filename="$USER_HOME$/dev/learning/mean-ch9-2/karma.conf.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/test/articles.client.controller.unit.tests.js" />
+      <jump line="46" column="54" filename="$USER_HOME$/dev/projects/mymercyweb/app/index.html" />
+      <jump line="47" column="27" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/services/authentication_service.js" />
+      <jump line="26" column="8" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/services/authentication_service.js" />
+      <jump line="42" column="68" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/services/authentication_service.js" />
+      <jump line="159" column="22" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/authentication_service-test.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/authentication_service-test.js" />
+      <jump line="148" column="71" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/authentication_service-test.js" />
+      <jump line="169" column="93" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/authentication_service-test.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="3" type="4">
+        <text>asdfasdf</text>
+      </register>
+      <register name="2" type="4">
+        <text>method specifically</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAkcm9vdFNjb3BlLiRvbihDb25zdGFudHMuRVZFTlQuTE9HT1VULCBmdW5jdGlvbigpIHsKICAgIElkbGUudW53YXRjaCgpOwogIH0pOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm5zIHtwcm9taXNlfSBhc2RmCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>asdf</text>
+      </register>
+      <register name="5" type="4">
+        <text>k</text>
+      </register>
+      <register name="4" type="4">
+        <text>isLoggedIn</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="9" type="4">
+        <text>Function|</text>
+      </register>
+      <register name="8" type="4">
+        <text>asdf</text>
+      </register>
+      <register name="/" type="4">
+        <text>initializeMy</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>initializeMy</last-search>
+      <last-offset />
+      <last-pattern>initializeMy</last-pattern>
+      <last-replace>sub</last-replace>
+      <last-substitute>submitDisabled</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>NODE_ENV</entry>
+        <entry>require</entry>
+        <entry>initConfig</entry>
+        <entry>no-unused-vars</entry>
+        <entry>add_dep</entry>
+        <entry>add_depe</entry>
+        <entry>logged_in</entry>
+        <entry>registration_params</entry>
+        <entry>no-alert</entry>
+        <entry>void</entry>
+        <entry>1</entry>
+        <entry>undefined</entry>
+        <entry>%s</entry>
+        <entry>/submitDisabled/sub/gc</entry>
+        <entry>submitDisabled</entry>
+        <entry>no-invalid-this</entry>
+        <entry>keep</entry>
+        <entry>logout</entry>
+        <entry>broad</entry>
+        <entry>initializeMy</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/views/v/g</entry>
+        <entry encoding="base64">JzwsJz4lcy92aWV3cy92L2c=</entry>
+        <entry>s/views/v/g</entry>
+        <entry>%s/view/ve/g</entry>
+        <entry>%s/NODE_ENV/NODE/g</entry>
+        <entry>b</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>s%/submitDisabled/sub/gc</entry>
+        <entry>%s/submitDisabled/sub/g</entry>
+        <entry>%s/submitDisabled/sub/gc</entry>
+        <entry>vs</entry>
+        <entry>wq</entry>
+        <entry>ww</entry>
+        <entry>CtrlP</entry>
+        <entry>wincmd h</entry>
+        <entry>winc</entry>
+        <entry>q</entry>
+        <entry>vsplit</entry>
+        <entry>wa</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift pressed ENTER</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
