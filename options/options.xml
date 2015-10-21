@@ -23,7 +23,7 @@
     <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
     <property name="settings.code.style.selected.tab.JavaScript" value="Tabs and Indents" />
     <property name="export.settings.path" value="$APPLICATION_CONFIG_DIR$/settings.jar" />
-    <property name="KEYMAP" value="Previous Tab&#10;Next Tab&#10;rerun&#10;run..&#10;run" />
+    <property name="KEYMAP" value="Decl&#10;Implementation&#10;Declaration&#10;step&#10;Previous Tab" />
     <property name="JSHintOptionsTreeView.MAIN_DIVIDER_PROPORTION" value="0.7" />
     <property name="JSHintOptionsTreeView.RIGHT_DIVIDER_PROPORTION" value="0.7" />
     <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="20.0" />

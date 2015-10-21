@@ -1,9 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>loggedIn</find>
-      <find>KeepaliveProvider</find>
-      <find>Keepalive</find>
       <find>stroustrup</find>
       <find>line</find>
       <find>length</find>
@@ -17,7 +14,6 @@
       <find>KeepAlive</find>
       <find>keepMychartAlive</find>
       <find>keepMyMercyAlive</find>
-      <find>eslint</find>
       <find>data-</find>
       <find>disconnect</find>
       <find>devSuperSecret</find>
@@ -31,6 +27,10 @@
       <find>logout</find>
       <find>broadcast</find>
       <find>setLoggedIn</find>
+      <find>eslint</find>
+      <find>ge</find>
+      <find>loggedIn</find>
+      <find>anchor</find>
     </findStrings>
     <replaceStrings>
       <replace>tiitle</replace>

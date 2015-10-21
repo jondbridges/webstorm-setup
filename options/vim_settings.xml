@@ -39,14 +39,14 @@
         <mark key="." line="2" column="26" />
         <mark key="[" line="2" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/app/index.html" timestamp="1445263420978">
+        <mark key="'" line="46" column="54" />
+      </file>
       <file name="$USER_HOME$/dev/learning/mean-ch9-2/config/socketio.js" timestamp="1445102357979">
         <mark key="]" line="9" column="49" />
         <mark key="^" line="9" column="49" />
         <mark key="." line="18" column="13" />
         <mark key="[" line="9" column="49" />
-      </file>
-      <file name="$USER_HOME$/dev/projects/mymercyweb/app/index.html" timestamp="1445263420978">
-        <mark key="'" line="46" column="54" />
       </file>
       <file name="$USER_HOME$/dev/learning/mean-ch9-2/public/chat/config/chat.client.routes.js" timestamp="1445101689742">
         <mark key="[" line="4" column="30" />
@@ -69,13 +69,6 @@
         <mark key="." line="25" column="4" />
         <mark key="[" line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/learning/mean-ch9-2/public/chat/services/socket.client.service.js" timestamp="1445139157246">
-        <mark key="'" line="8" column="11" />
-        <mark key="]" line="10" column="12" />
-        <mark key="^" line="10" column="12" />
-        <mark key="." line="10" column="12" />
-        <mark key="[" line="10" column="7" />
-      </file>
       <file name="$USER_HOME$/dev/projects/mymercyweb/app/scripts/routes.js" timestamp="1445264395300">
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
@@ -97,13 +90,6 @@
         <mark key="." line="82" column="47" />
         <mark key="[" line="82" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/learning/mean-ch9-2/app/tests/article.server.model.tests.js" timestamp="1445208546801">
-        <mark key="'" line="49" column="2" />
-        <mark key="]" line="11" column="26" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-        <mark key="[" line="11" column="23" />
-      </file>
       <file name="$USER_HOME$/dev/projects/mymercyweb/test/spec/directives/scroll-to-element-test.js" timestamp="1444857201207">
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
@@ -122,7 +108,7 @@
         <mark key="." line="35" column="3" />
         <mark key="[" line="35" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/learning/mean-ch9-2/app/tests/articles.server.controller.tests.js" timestamp="1445209616906">
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/app/tests/articles.server.controller.tests.js" timestamp="1445306377742">
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
         <mark key="[" line="28" column="0" />
@@ -136,11 +122,28 @@
         <mark key="." line="27" column="52" />
         <mark key="[" line="27" column="50" />
       </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/controllers/articles.client.controller.js" timestamp="1445312026958">
+        <mark key="'" line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/keep_alive_service-test.js" timestamp="1445280488632">
         <mark key="]" line="31" column="23" />
         <mark key="^" line="31" column="23" />
         <mark key="." line="31" column="23" />
         <mark key="[" line="31" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/tests/unit/articles.client.controller.unit.tests.js" timestamp="1445303805008">
+        <mark key="[" line="40" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/protractor.conf.js" timestamp="1445305647135">
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/tests/e2e/client.e2e.tests.js" timestamp="1445304976893">
+        <mark key="]" line="9" column="8" />
+        <mark key="^" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+        <mark key="[" line="9" column="8" />
       </file>
       <file name="$USER_HOME$/dev/learning/mean-ch9-2/public/chat/views/chat.client.view.html" timestamp="1445101466467">
         <mark key="]" line="16" column="45" />
@@ -157,22 +160,8 @@
         <mark key="." line="33" column="45" />
         <mark key="[" line="33" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/projects/mymercyweb/app/scripts/services/authentication_service.js" timestamp="1445281157336">
-        <mark key="'" line="42" column="68" />
-        <mark key="]" line="32" column="17" />
-        <mark key="^" line="32" column="17" />
-        <mark key="." line="32" column="17" />
-        <mark key="[" line="32" column="11" />
-      </file>
       <file name="/" timestamp="1445057624026">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/learning/mean-ch9-2/karma.conf.js" timestamp="1445223430820">
-        <mark key="'" line="115" column="2" />
-        <mark key="]" line="18" column="18" />
-        <mark key="^" line="18" column="18" />
-        <mark key="." line="18" column="18" />
-        <mark key="[" line="17" column="26" />
       </file>
       <file name="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/keep_mychart_service-test.js" timestamp="1444856633800">
         <mark key="]" line="22" column="39" />
@@ -186,17 +175,17 @@
       <file name="/JavaScript Console" timestamp="1445260223847">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/learning/mean-ch9-2/config/env/test.js" timestamp="1445203991870">
-        <mark key="]" line="3" column="40" />
-        <mark key="^" line="3" column="40" />
-        <mark key="." line="3" column="40" />
-        <mark key="[" line="3" column="7" />
-      </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1445098718481">
         <mark key="]" line="1" column="18" />
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
         <mark key="[" line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/learning/mean-ch9-2/config/env/test.js" timestamp="1445203991870">
+        <mark key="]" line="3" column="40" />
+        <mark key="^" line="3" column="40" />
+        <mark key="." line="3" column="40" />
+        <mark key="[" line="3" column="7" />
       </file>
       <file name="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/registration.js" timestamp="1445009600739">
         <mark key="]" line="4" column="193" />
@@ -214,14 +203,14 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/projects/mymercyweb/app/styles/wtf.css" timestamp="1444877616333">
-        <mark key="[" line="28" column="15" />
-      </file>
       <file name="$USER_HOME$/dev/learning/mean-ch9-2/public/application.js" timestamp="1445102139761">
         <mark key="]" line="4" column="91" />
         <mark key="^" line="4" column="91" />
         <mark key="." line="4" column="91" />
         <mark key="[" line="4" column="85" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mymercyweb/app/styles/wtf.css" timestamp="1444877616333">
+        <mark key="[" line="28" column="15" />
       </file>
       <file name="$USER_HOME$/dev/projects/mymercyweb/app/scripts/services/keep_mychart_alive_service.js" timestamp="1445262191420">
         <mark key="]" line="2" column="35" />
@@ -229,27 +218,8 @@
         <mark key="." line="2" column="35" />
         <mark key="[" line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/learning/mean-ch9-2/app/controllers/articles.server.controller.js" timestamp="1445198694239">
-        <mark key="'" line="63" column="4" />
-        <mark key="]" line="22" column="54" />
-        <mark key="^" line="22" column="54" />
-        <mark key="." line="22" column="54" />
-        <mark key="[" line="22" column="53" />
-      </file>
-      <file name="$USER_HOME$/dev/.eslintrc" timestamp="1445098217508">
-        <mark key="'" line="45" column="23" />
-        <mark key="]" line="73" column="20" />
-        <mark key="^" line="45" column="23" />
-        <mark key="." line="73" column="20" />
-        <mark key="[" line="73" column="19" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="16" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/controllers/grant_access-test.js" />
-      <jump line="12" column="29" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/authentication_service-test.js" />
-      <jump line="91" column="0" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/authentication_service-test.js" />
-      <jump line="5" column="129" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/emulate_user.js" />
-      <jump line="14" column="70" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/login.js" />
       <jump line="165" column="50" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/registration.js" />
       <jump line="17" column="48" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/controllers/registration.js" />
       <jump line="55" column="22" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/services/authentication_service.js" />
@@ -308,7 +278,6 @@
       <jump line="31" column="16" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/controllers/articles.client.controller.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/controllers/articles.client.controller.js" />
       <jump line="25" column="36" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/controllers/articles.client.controller.js" />
-      <jump line="55" column="2" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/controllers/articles.client.controller.js" />
       <jump line="45" column="23" filename="$USER_HOME$/dev/.eslintrc" />
       <jump line="31" column="5" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/chat/services/socket.client.service.js" />
       <jump line="6" column="3" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/chat/services/socket.client.service.js" />
@@ -345,49 +314,55 @@
       <jump line="6" column="0" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/authentication_service-test.js" />
       <jump line="148" column="71" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/authentication_service-test.js" />
       <jump line="169" column="93" filename="$USER_HOME$/dev/projects/mymercyweb/test/spec/services/authentication_service-test.js" />
+      <jump line="7" column="3" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/controllers/articles.client.controller.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/controllers/articles.client.controller.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/learning/mean-ch9-2/public/articles/controllers/articles.client.controller.js" />
+      <jump line="51" column="25" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/app.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/app.js" />
+      <jump line="34" column="4" filename="$USER_HOME$/dev/projects/mymercyweb/app/scripts/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBzZWxlbml1bUFkZHJlc3M6ICdodHRwOi8vbG9jYWxob3N0OjUyNTk1L3dkL2h1YicsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>asdfasdf</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICRzY29wZS51cGRhdGUgPSBmdW5jdGlvbigpIHsKICAgICAgJHNjb3BlLmFydGljbGUuJHVwZGF0ZShmdW5jdGlvbigpIHsKICAgICAgICAkbG9jYXRpb24ucGF0aCgnYXJ0aWNsZXMvJyArICRzY29wZS5hcnRpY2xlLl9pZCk7CiAgICAgIH0sIGZ1bmN0aW9uKGVycm9yUmVzcG9uc2UpIHsKICAgICAgICAkc2NvcGUuZXJyb3IgPSBlcnJvclJlc3BvbnNlLmRhdGEubWVzc2FnZTsKICAgICAgfSk7CiAgICB9Owo=</text>
       </register>
-      <register name="2" type="4">
-        <text>method specifically</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICRzY29wZS51cGRhdGUgPSBmdW5jdGlvbigpIHsKICAgICAgJHNjb3BlLmFydGljbGUuJHVwZGF0ZShmdW5jdGlvbigpIHsKICAgICAgICAkbG9jYXRpb24ucGF0aCgnYXJ0aWNsZXMvJyArICRzY29wZS5hcnRpY2xlLl9pZCk7CiAgICAgIH0sIGZ1bmN0aW9uKGVycm9yUmVzcG9uc2UpIHsKICAgICAgICAkc2NvcGUuZXJyb3IgPSBlcnJvclJlc3BvbnNlLmRhdGEubWVzc2FnZTsKICAgICAgfSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICRzY29wZS51cGRhdGUgPSBmdW5jdGlvbigpIHsKICAgICAgJHNjb3BlLmFydGljbGUuJHVwZGF0ZShmdW5jdGlvbigpIHsKICAgICAgICAkbG9jYXRpb24ucGF0aCgnYXJ0aWNsZXMvJyArICRzY29wZS5hcnRpY2xlLl9pZCk7CiAgICAgIH0sIGZ1bmN0aW9uKGVycm9yUmVzcG9uc2UpIHsKICAgICAgICAkc2NvcGUuZXJyb3IgPSBlcnJvclJlc3BvbnNlLmRhdGEubWVzc2FnZTsKICAgICAgfSk7CiAgICB9Owo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAkcm9vdFNjb3BlLiRvbihDb25zdGFudHMuRVZFTlQuTE9HT1VULCBmdW5jdGlvbigpIHsKICAgIElkbGUudW53YXRjaCgpOwogIH0pOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm5zIHtwcm9taXNlfSBhc2RmCg==</text>
+      <register name="7" type="4">
+        <text>asdfasdf</text>
       </register>
       <register name="6" type="4">
-        <text>asdf</text>
+        <text>method specifically</text>
       </register>
       <register name="5" type="4">
-        <text>k</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>isLoggedIn</text>
+        <text>4444</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>Function|</text>
+        <text>k</text>
       </register>
       <register name="8" type="4">
-        <text>asdf</text>
+        <text>isLoggedIn</text>
       </register>
       <register name="/" type="4">
         <text>initializeMy</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>4444</text>
       </register>
     </registers>
     <search>

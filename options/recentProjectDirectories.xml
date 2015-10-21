@@ -2,8 +2,8 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/dev/learning/mean-ch9-2" />
         <option value="$USER_HOME$/dev/projects/mymercyweb" />
+        <option value="$USER_HOME$/dev/learning/mean-ch9-2" />
         <option value="$USER_HOME$/dev/projects/old_new_mymercy/mymercyclient" />
         <option value="$USER_HOME$/dev/learning/mean-ch9" />
         <option value="$USER_HOME$/dev/learning/untitled" />
@@ -13,7 +13,12 @@
         <option value="$USER_HOME$/dev/learning/mean-ch2-ws" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/dev/learning/mean-ch9-2" />
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/dev/projects/mymercyweb" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/dev/projects/mymercyweb" />
     <option name="lastProjectLocation" value="$USER_HOME$/dev/learning" />
   </component>
 </application>

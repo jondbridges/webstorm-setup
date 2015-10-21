@@ -22,7 +22,7 @@
       </component>
       <component name="ProjectRootManager" version="2" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
     </defaultProject>
