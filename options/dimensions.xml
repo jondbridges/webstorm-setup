@@ -2,9 +2,9 @@
   <component name="DimensionService">
     <location key="WELCOME_SCREEN.0.0.1680.1050" x="840" y="230" />
     <location key="findTextDialog.0.0.1680.1050" x="609" y="266" />
-    <location key="WELCOME_SCREEN.0.0.1440.900" x="720" y="230" />
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="720" y="416" />
     <location key="#Browse_Repositories.0.0.1440.900" x="327" y="100" />
-    <location key="SettingsEditor.0.0.1440.900" x="150" y="116" />
+    <location key="SettingsEditor.0.0.1440.900" x="96" y="105" />
     <location key="#ESLint.0.0.1440.900" x="459" y="240" />
     <location key="findTextDialog.0.0.1440.900" x="515" y="205" />
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1440.900" x="483" y="332" />
@@ -69,10 +69,10 @@
     <size key="GridCell.Tab.4.right.0.0.1440.900" width="1379" height="272" />
     <size key="GridCell.Tab.4.bottom.0.0.1440.900" width="1379" height="272" />
     <size key="GotoFile_FileTypePopup.0.0.1440.900" width="200" height="200" />
-    <size key="GridCell.Tab.0.left.-140.-1080.1920.1080" width="1899" height="309" />
-    <size key="GridCell.Tab.0.center.-140.-1080.1920.1080" width="1899" height="309" />
-    <size key="GridCell.Tab.0.right.-140.-1080.1920.1080" width="1899" height="309" />
-    <size key="GridCell.Tab.0.bottom.-140.-1080.1920.1080" width="1899" height="309" />
+    <size key="GridCell.Tab.0.left.-140.-1080.1920.1080" width="1878" height="231" />
+    <size key="GridCell.Tab.0.center.-140.-1080.1920.1080" width="1878" height="231" />
+    <size key="GridCell.Tab.0.right.-140.-1080.1920.1080" width="1878" height="231" />
+    <size key="GridCell.Tab.0.bottom.-140.-1080.1920.1080" width="1878" height="231" />
     <size key="GridCell.Tab.3.left.0.0.1440.900" width="854" height="271" />
     <size key="GridCell.Tab.3.center.0.0.1440.900" width="854" height="271" />
     <size key="GridCell.Tab.3.right.0.0.1440.900" width="854" height="271" />
@@ -82,6 +82,10 @@
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1440.900" width="1240" height="700" />
     <size key="SettingsEditor.-140.-1080.1920.1080" width="1211" height="676" />
     <size key="DebuggerActiveHint.0.0.1440.900" width="538" height="430" />
+    <size key="GridCell.Tab.1.left.-140.-1080.1920.1080" width="1878" height="231" />
+    <size key="GridCell.Tab.1.center.-140.-1080.1920.1080" width="1878" height="231" />
+    <size key="GridCell.Tab.1.right.-140.-1080.1920.1080" width="1878" height="231" />
+    <size key="GridCell.Tab.1.bottom.-140.-1080.1920.1080" width="1878" height="231" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
     <extendedState key="DiffContextDialog" state="0" />

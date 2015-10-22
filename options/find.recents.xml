@@ -1,14 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>stroustrup</find>
-      <find>line</find>
-      <find>length</find>
-      <find>format_date_of_birth</find>
-      <find>searchPatientParams</find>
-      <find>alive</find>
-      <find>idle</find>
-      <find>keepMyChartAlive</find>
       <find>TimeOutController</find>
       <find>getMychartUrl</find>
       <find>KeepAlive</find>
@@ -31,6 +23,14 @@
       <find>ge</find>
       <find>loggedIn</find>
       <find>anchor</find>
+      <find>accountSettingsForm</find>
+      <find>$http</find>
+      <find>account</find>
+      <find>settin</find>
+      <find>submitSuccess</find>
+      <find>_self</find>
+      <find>confirmation.newPassword</find>
+      <find>profile.newPassword</find>
     </findStrings>
     <replaceStrings>
       <replace>tiitle</replace>
@@ -46,6 +46,13 @@
       <replace>2</replace>
       <replace>&quot;</replace>
       <replace>keepAliveService</replace>
+      <replace>resetTempPasswordForm</replace>
+      <replace>confirmNewPasswordp</replace>
+      <replace>confirmNewPassword</replace>
+      <replace>newPassword</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/dev/learning/jhipster/src/main/webapp/bower_components</dir>
+    </dirStrings>
   </component>
 </application>

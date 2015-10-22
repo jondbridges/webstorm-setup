@@ -34,6 +34,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="meteor-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_meteor_meteor.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_meteor_meteor.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="mongodb-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -77,21 +88,21 @@
           <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/events.js" />
           <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/freelist.js" />
           <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/fs.js" />
-          <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_tls_legacy.js" />
           <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_debug_agent.js" />
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_tls_legacy.js" />
           <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_tls_common.js" />
-          <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/assert.js" />
           <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_http_agent.js" />
-          <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_tls_wrap.js" />
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/assert.js" />
           <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_debugger.js" />
-          <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/child_process.js" />
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_tls_wrap.js" />
           <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_http_common.js" />
-          <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/buffer.js" />
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/child_process.js" />
           <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_http_client.js" />
-          <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/console.js" />
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/buffer.js" />
           <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_http_outgoing.js" />
-          <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/cluster.js" />
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/console.js" />
           <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_http_incoming.js" />
+          <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/cluster.js" />
           <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_linklist.js" />
           <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_http_server.js" />
           <item url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_stream_passthrough.js" />
@@ -140,21 +151,21 @@
         <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/events.js" />
         <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/freelist.js" />
         <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/fs.js" />
-        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_debug_agent.js" />
         <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_tls_legacy.js" />
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_debug_agent.js" />
         <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_tls_common.js" />
-        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_http_agent.js" />
         <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/assert.js" />
-        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_debugger.js" />
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_http_agent.js" />
         <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_tls_wrap.js" />
-        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_http_common.js" />
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_debugger.js" />
         <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/child_process.js" />
-        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_http_client.js" />
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_http_common.js" />
         <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/buffer.js" />
-        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_http_outgoing.js" />
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_http_client.js" />
         <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/console.js" />
-        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_http_incoming.js" />
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_http_outgoing.js" />
         <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/cluster.js" />
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_http_incoming.js" />
         <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_linklist.js" />
         <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_http_server.js" />
         <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/nodejs-v4.1.1-src/core-modules-sources/lib/_stream_passthrough.js" />

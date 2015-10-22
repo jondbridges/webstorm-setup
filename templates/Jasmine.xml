@@ -553,7 +553,7 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
-  <template name="spy" value="spyOn($objToSpy$, '$objAttribute$');" description="spyOn(Obj, Key)" toReformat="false" toShortenFQNames="true">
+  <template name="spy" value="spyOn($objToSpy$, &quot;$objAttribute$&quot;);" description="spyOn(Obj, Key)" toReformat="false" toShortenFQNames="true">
     <variable name="objToSpy" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="objAttribute" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -571,7 +571,7 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
-  <template name="spyt" value="spyOn($objToSpy$, '$objAttribute$').andCallThrough();" description="spyOn(Obj, Key).andCallThrough()" toReformat="false" toShortenFQNames="true">
+  <template name="spyt" value="spyOn($objToSpy$, &quot;$objAttribute$&quot;).andCallThrough();" description="spyOn(Obj, Key).andCallThrough()" toReformat="false" toShortenFQNames="true">
     <variable name="objToSpy" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="objAttribute" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -589,7 +589,7 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
-  <template name="spyr" value="spyOn($objToSpy$, '$objAttribute$').andReturn($returnValue$);" description="spyOn(Obj, Key).andReturn()" toReformat="false" toShortenFQNames="true">
+  <template name="spyr" value="spyOn($objToSpy$, &quot;$objAttribute$&quot;).andReturn($returnValue$);" description="spyOn(Obj, Key).andReturn()" toReformat="false" toShortenFQNames="true">
     <variable name="objToSpy" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="objAttribute" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="returnValue" expression="" defaultValue="" alwaysStopAt="true" />
@@ -608,7 +608,7 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
-  <template name="spyf" value="spyOn($objToSpy$, '$objAttribute$').andCallFake($function$);" description="spyOn(Obj, Key).andCallFake(fct)" toReformat="false" toShortenFQNames="true">
+  <template name="spyf" value="spyOn($objToSpy$, &quot;$objAttribute$&quot;).andCallFake($function$);" description="spyOn(Obj, Key).andCallFake(fct)" toReformat="false" toShortenFQNames="true">
     <variable name="objToSpy" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="objAttribute" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="function" expression="" defaultValue="" alwaysStopAt="true" />
