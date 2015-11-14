@@ -87,8 +87,8 @@
         <option name="window" value="0" />
       </ViewImpl>
       <TabImpl>
-        <option name="leftProportion" value="0.19912152" />
-        <option name="rightProportion" value="0.19912152" />
+        <option name="leftProportion" value="0.19791667" />
+        <option name="rightProportion" value="0.19791667" />
       </TabImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />
@@ -96,11 +96,11 @@
         <option name="index" value="1" />
       </TabImpl>
       <TabImpl>
-        <option name="bottomProportion" value="0.0" />
+        <option name="bottomProportion" value="0.3803419" />
         <option name="defaultIndex" value="3" />
         <option name="displayName" value="Elements" />
         <option name="index" value="2" />
-        <option name="leftProportion" value="0.1997116" />
+        <option name="leftProportion" value="0.19921875" />
       </TabImpl>
       <General />
     </runner>

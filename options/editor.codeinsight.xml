@@ -2,6 +2,7 @@
   <component name="CodeInsightSettings">
     <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="b" value="2" />
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
   </component>
 </application>

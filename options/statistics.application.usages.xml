@@ -1,119 +1,167 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="vcs">
-      <project id="mymercyweb" values="Git" collectionTime="1445483057847" />
+      <project id="minimalist-backgrounds" values="Git" collectionTime="1446140100959" />
+      <project id="mymercyweb" values="Git" collectionTime="1446644436693" />
       <project id="mean-ch8" values="Git" collectionTime="1444790757405" />
-      <project id="mymercyclient" values="Git" collectionTime="1445033338202" />
+      <project id="mymercyclient" values="Git" collectionTime="1447461284180" />
     </group>
     <group name="JavaScript versions">
-      <project id="mymercyweb" values="ECMAScript 5.1" collectionTime="1445483057876" />
-      <project id="mean-ch2-ws" values="DEFAULT" collectionTime="1441485356233" />
-      <project id="mean-ch2" values="DEFAULT" collectionTime="1444775924681" />
-      <project id="mean-ch9-2" values="DEFAULT" collectionTime="1445395753599" />
-      <project id="mymercyclient" values="DEFAULT" collectionTime="1445033338326" />
-      <project id="mean-ch8" values="ECMAScript 5.1" collectionTime="1444790757412" />
-      <project id="our-groceries" values="DEFAULT" collectionTime="1445520157875" />
-      <project id="mean-ch7" values="DEFAULT" collectionTime="1444775872997" />
-      <project id="untitled" values="DEFAULT" collectionTime="1444776008469" />
       <project id="webapp" values="DEFAULT" collectionTime="1445437120622" />
+      <project id="firstApp" values="DEFAULT" collectionTime="1445661283326" />
+      <project id="minimalist-backgrounds" values="ECMAScript 6" collectionTime="1446140101079" />
+      <project id="mean-ch7" values="DEFAULT" collectionTime="1444775872997" />
+      <project id="mymercyclient" values="DEFAULT" collectionTime="1447461284267" />
+      <project id="Location Directory.html" values="DEFAULT" collectionTime="1446648110712" />
+      <project id="houseSitter" values="DEFAULT" collectionTime="1446471442985" />
+      <project id="mean-ch2" values="DEFAULT" collectionTime="1444775924681" />
+      <project id="LocationDirectory_ServiceDetails.html0.tmp" values="DEFAULT" collectionTime="1447432226955" />
+      <project id="webstormTest" values="DEFAULT" collectionTime="1445629105165" />
+      <project id="mean-ch8" values="ECMAScript 5.1" collectionTime="1444790757412" />
+      <project id="mean-ch2-ws" values="DEFAULT" collectionTime="1441485356233" />
+      <project id="our-groceries" values="DEFAULT" collectionTime="1445627766788" />
+      <project id="mymercyweb" values="ECMAScript 5.1" collectionTime="1446644436803" />
+      <project id="mean-ch9-2" values="DEFAULT" collectionTime="1445911955582" />
+      <project id="myFridge" values="DEFAULT" collectionTime="1445704757919" />
+      <project id="LocationDirectory_ServiceDetails.html" values="DEFAULT" collectionTime="1446674670780" />
+      <project id="untitled" values="DEFAULT" collectionTime="1445629464248" />
     </group>
     <group name="run-configuration-type">
-      <project id="mymercyweb" values="JavaScriptTestRunnerKarma,js.build_tools.grunt" collectionTime="1445483057848" />
-      <project id="mean-ch9-2" values="JavaScriptTestRunnerKarma,mocha-javascript-test-runner,NodeJSConfigurationType,JavascriptDebugType" collectionTime="1445395753538" />
+      <project id="mymercyweb" values="JavaScriptTestRunnerKarma,js.build_tools.grunt" collectionTime="1446644436694" />
+      <project id="firstApp" values="JavascriptDebugType,meteor-app-runner" collectionTime="1445661283269" />
+      <project id="minimalist-backgrounds" values="js.build_tools.gulp" collectionTime="1446140100961" />
+      <project id="myFridge" values="meteor-app-runner" collectionTime="1445704757905" />
+      <project id="houseSitter" values="meteor-app-runner" collectionTime="1446471442875" />
+      <project id="webstormTest" values="meteor-app-runner,JavascriptDebugType" collectionTime="1445629105157" />
+      <project id="mean-ch9-2" values="JavascriptDebugType,mocha-javascript-test-runner,NodeJSConfigurationType,JavaScriptTestRunnerKarma" collectionTime="1445911955529" />
       <project id="mean-ch2-ws" values="NodeJSConfigurationType" collectionTime="1441485356230" />
       <project id="mean-ch8" values="NodeJSConfigurationType" collectionTime="1444790757405" />
-      <project id="untitled" values="NodeJSConfigurationType" collectionTime="1444776008464" />
+      <project id="untitled" values="meteor-app-runner,JavascriptDebugType" collectionTime="1445629464242" />
     </group>
     <group name="JSDebugConfig">
-      <project id="mean-ch9-2" values="browser-default.preferredEngine-null.no_mappings" collectionTime="1445395753706" />
+      <project id="firstApp" values="browser-default.preferredEngine-null.no_mappings" collectionTime="1445661283398" />
+      <project id="untitled" values="browser-default.preferredEngine-null.no_mappings" collectionTime="1445629464249" />
+      <project id="mean-ch9-2" values="browser-default.preferredEngine-null.no_mappings" collectionTime="1445911955668" />
+      <project id="webstormTest" values="browser-default.preferredEngine-null.no_mappings" collectionTime="1445629105165" />
     </group>
     <group name="javaScript Frameworks">
-      <project id="mymercyweb" values="node_modules" collectionTime="1445483057876" />
-      <project id="mymercyclient" values="node_modules" collectionTime="1445033338326" />
-      <project id="mean-ch9-2" values="node_modules,Node.js Core Modules 4.1.1" collectionTime="1445395753598" />
+      <project id="mymercyweb" values="node_modules" collectionTime="1446644436803" />
+      <project id="minimalist-backgrounds" values="node_modules" collectionTime="1446140101079" />
       <project id="mean-ch2-ws" values="Node.js Core Modules 0.10.32" collectionTime="1441485356233" />
+      <project id="mean-ch9-2" values="Node.js Core Modules 4.1.1,node_modules" collectionTime="1445911955581" />
+      <project id="mymercyclient" values="node_modules" collectionTime="1447461284267" />
       <project id="mean-ch8" values="node_modules,Node.js Core Modules 4.1.1" collectionTime="1444790757412" />
       <project id="mean-ch7" values="node_modules" collectionTime="1444775872997" />
-      <project id="untitled" values="Node.js Core Modules 4.1.1" collectionTime="1444776008469" />
     </group>
     <group name="file-type">
-      <project id="mymercyweb" values="UNKNOWN,XML,CSS,Images,Native,JSHint,ESLint,JavaScript,JSON,PLAIN_TEXT,HTML,JSCS" collectionTime="1445483057874" />
-      <project id="mean-ch2-ws" values="Handlebars/Mustache,JSHint,SourceMap,YAML,CoffeeScript,HTML,Less,JavaScript,C++,ARCHIVE,Jade,UNKNOWN,CSS,Images,PLAIN_TEXT,JSON,XML" collectionTime="1441485356232" />
-      <project id="mean-ch2" values="JSHint,JavaScript,PLAIN_TEXT,XML,JSON,UNKNOWN,YAML" collectionTime="1444775924680" />
-      <project id="mean-ch9-2" values="JavaScript,XML,PLAIN_TEXT,JSON,EJS,HTML,UNKNOWN" collectionTime="1445395753592" />
-      <project id="mymercyclient" values="C#,Stylus,XML,HTML,PLAIN_TEXT,JSON,ARCHIVE,CoffeeScript,JavaScript,Images,Native,Literate CoffeeScript,CSS,UNKNOWN" collectionTime="1445033338321" />
-      <project id="mean-ch8" values="JSON,PLAIN_TEXT,EJS,HTML,JavaScript,UNKNOWN,XML" collectionTime="1444790757411" />
-      <project id="our-groceries" values="UNKNOWN,HTML,CSS,PLAIN_TEXT,ESLint,JavaScript,XML" collectionTime="1445520157865" />
-      <project id="mean-ch7" values="JavaScript,JSON,HTML,PLAIN_TEXT,SourceMap,XML,UNKNOWN,CSS,EJS" collectionTime="1444775872996" />
-      <project id="untitled" values="XML,CoffeeScript,PLAIN_TEXT,JSHint,CSS,JSON,UNKNOWN,JavaScript,YAML,HTML,Jade,Handlebars/Mustache" collectionTime="1444776008468" />
-      <project id="webapp" values="CSS,Images,UNKNOWN,PLAIN_TEXT,HTML,XML,JSON,JavaScript" collectionTime="1445437120613" />
+      <project id="webapp" values="JavaScript,UNKNOWN,CSS,JSON,HTML,XML,Images,PLAIN_TEXT" collectionTime="1445437120613" />
+      <project id="firstApp" values="PLAIN_TEXT,UNKNOWN,CSS,HTML,XML,JavaScript" collectionTime="1445661283323" />
+      <project id="minimalist-backgrounds" values="MultiMarkdown,JSON,JavaScript,Git file,HTML,UNKNOWN,Npm file,Images,SCSS,ESLint,YAML,PLAIN_TEXT,XML,SourceMap,CSS" collectionTime="1446140101069" />
+      <project id="mean-ch7" values="XML,UNKNOWN,JavaScript,SourceMap,PLAIN_TEXT,HTML,JSON,EJS,CSS" collectionTime="1444775872996" />
+      <project id="mymercyclient" values="JSON,Git file,CoffeeScript,C#,XML,PLAIN_TEXT,ARCHIVE,CSS,JavaScript,Literate CoffeeScript,Images,HTML,MultiMarkdown,UNKNOWN,Native,Stylus" collectionTime="1447461284258" />
+      <project id="Location Directory.html" values="UNKNOWN" collectionTime="1446648110712" />
+      <project id="houseSitter" values="UNKNOWN,XML,JavaScript,HTML,PLAIN_TEXT,Git file,CSS" collectionTime="1446471442977" />
+      <project id="mean-ch2" values="PLAIN_TEXT,XML,UNKNOWN,YAML,JavaScript,JSHint,JSON" collectionTime="1444775924680" />
+      <project id="LocationDirectory_ServiceDetails.html0.tmp" values="XML,UNKNOWN" collectionTime="1447432226947" />
+      <project id="webstormTest" values="PLAIN_TEXT,CSS,HTML,JavaScript,UNKNOWN,XML" collectionTime="1445629105162" />
+      <project id="mean-ch8" values="EJS,UNKNOWN,PLAIN_TEXT,HTML,XML,JavaScript,JSON" collectionTime="1444790757411" />
+      <project id="mean-ch2-ws" values="Handlebars/Mustache,UNKNOWN,Images,XML,SourceMap,HTML,JSHint,YAML,Jade,CSS,C++,JavaScript,Less,ARCHIVE,JSON,CoffeeScript,PLAIN_TEXT" collectionTime="1441485356232" />
+      <project id="our-groceries" values="CSS,UNKNOWN,PLAIN_TEXT,XML,HTML,JavaScript,ESLint" collectionTime="1445627766786" />
+      <project id="mymercyweb" values="JSHint,XML,Native,JSON,JavaScript,JSCS,CSS,HTML,UNKNOWN,Images,PLAIN_TEXT,MultiMarkdown,Git file,ESLint" collectionTime="1446644436794" />
+      <project id="mean-ch9-2" values="EJS,XML,HTML,UNKNOWN,JavaScript,PLAIN_TEXT,JSON" collectionTime="1445911955577" />
+      <project id="myFridge" values="JavaScript,CSS,Images,XML,PLAIN_TEXT,HTML,UNKNOWN" collectionTime="1445704757918" />
+      <project id="LocationDirectory_ServiceDetails.html" values="HTML,UNKNOWN" collectionTime="1446674670780" />
+      <project id="untitled" values="Less,Images,JavaScript,UNKNOWN,HTML,XML,PLAIN_TEXT" collectionTime="1445629464248" />
     </group>
     <group name="module type">
-      <project id="mymercyweb" values="WEB_MODULE" collectionTime="1445483057848" />
-      <project id="mean-ch2-ws" values="WEB_MODULE" collectionTime="1441485356230" />
-      <project id="mean-ch2" values="WEB_MODULE" collectionTime="1444775924674" />
-      <project id="mean-ch9-2" values="WEB_MODULE" collectionTime="1445395753537" />
-      <project id="mymercyclient" values="WEB_MODULE" collectionTime="1445033338202" />
-      <project id="mean-ch8" values="WEB_MODULE" collectionTime="1444790757405" />
-      <project id="our-groceries" values="WEB_MODULE" collectionTime="1445520157766" />
-      <project id="mean-ch7" values="WEB_MODULE" collectionTime="1444775872974" />
-      <project id="untitled" values="WEB_MODULE" collectionTime="1444776008464" />
       <project id="webapp" values="WEB_MODULE" collectionTime="1445437120587" />
+      <project id="firstApp" values="WEB_MODULE" collectionTime="1445661283268" />
+      <project id="minimalist-backgrounds" values="WEB_MODULE" collectionTime="1446140100960" />
+      <project id="mean-ch7" values="WEB_MODULE" collectionTime="1444775872974" />
+      <project id="mymercyclient" values="WEB_MODULE" collectionTime="1447461284180" />
+      <project id="Location Directory.html" values="WEB_MODULE" collectionTime="1446648110687" />
+      <project id="houseSitter" values="WEB_MODULE" collectionTime="1446471442875" />
+      <project id="mean-ch2" values="WEB_MODULE" collectionTime="1444775924674" />
+      <project id="LocationDirectory_ServiceDetails.html0.tmp" values="WEB_MODULE" collectionTime="1447432226848" />
+      <project id="webstormTest" values="WEB_MODULE" collectionTime="1445629105157" />
+      <project id="mean-ch8" values="WEB_MODULE" collectionTime="1444790757405" />
+      <project id="mean-ch2-ws" values="WEB_MODULE" collectionTime="1441485356230" />
+      <project id="our-groceries" values="WEB_MODULE" collectionTime="1445627766771" />
+      <project id="mymercyweb" values="WEB_MODULE" collectionTime="1446644436694" />
+      <project id="mean-ch9-2" values="WEB_MODULE" collectionTime="1445911955528" />
+      <project id="myFridge" values="WEB_MODULE" collectionTime="1445704757905" />
+      <project id="LocationDirectory_ServiceDetails.html" values="WEB_MODULE" collectionTime="1446674670770" />
+      <project id="untitled" values="WEB_MODULE" collectionTime="1445629464242" />
     </group>
     <group name="javaScript Scope Usages">
-      <project id="mymercyweb" values="Project,Project,Directory,Project,Project,Project" collectionTime="1445483057876" />
-      <project id="mean-ch2-ws" values="Project,Project,Project,Project" collectionTime="1441485356233" />
-      <project id="mean-ch2" values="Project,Project" collectionTime="1444775924681" />
-      <project id="mean-ch9-2" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" collectionTime="1445395753599" />
-      <project id="mymercyclient" values="Directory,Project,Project" collectionTime="1445033338326" />
-      <project id="mean-ch8" values="Project,Project,Project,Directory,Project,Project" collectionTime="1444790757412" />
-      <project id="our-groceries" values="Project,Project,Project,Project,Project" collectionTime="1445520157874" />
-      <project id="mean-ch7" values="Directory,Project,Project" collectionTime="1444775872997" />
-      <project id="untitled" values="Project,Project,Project,Project" collectionTime="1444776008469" />
       <project id="webapp" values="Project,Project" collectionTime="1445437120622" />
+      <project id="firstApp" values="Project,Project,Project,Project" collectionTime="1445661283326" />
+      <project id="minimalist-backgrounds" values="Project,Directory,Project,Project,Project" collectionTime="1446140101079" />
+      <project id="mean-ch7" values="Project,Directory,Project" collectionTime="1444775872997" />
+      <project id="mymercyclient" values="Project,Directory,Project" collectionTime="1447461284267" />
+      <project id="Location Directory.html" values="Project,Project" collectionTime="1446648110712" />
+      <project id="houseSitter" values="Project,Project,Project" collectionTime="1446471442985" />
+      <project id="mean-ch2" values="Project,Project" collectionTime="1444775924681" />
+      <project id="LocationDirectory_ServiceDetails.html0.tmp" values="Project,Project" collectionTime="1447432226955" />
+      <project id="webstormTest" values="Project,Project,Project" collectionTime="1445629105165" />
+      <project id="mean-ch8" values="Project,Directory,Project,Project,Project,Project" collectionTime="1444790757412" />
+      <project id="mean-ch2-ws" values="Project,Project,Project,Project" collectionTime="1441485356233" />
+      <project id="our-groceries" values="Project,Project,Project,Project,Project" collectionTime="1445627766788" />
+      <project id="mymercyweb" values="Project,Project,Directory,Project,Project,Project" collectionTime="1446644436803" />
+      <project id="mean-ch9-2" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" collectionTime="1445911955581" />
+      <project id="myFridge" values="Project,Project,Project" collectionTime="1445704757919" />
+      <project id="LocationDirectory_ServiceDetails.html" values="Project,Project" collectionTime="1446674670780" />
+      <project id="untitled" values="Project,Project,Project,Project" collectionTime="1445629464248" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="16" />
-      <entry feature="JSDebugConfig.Debug.browser-default.preferredEngine-null.no_mappings" count="11" />
+      <entry feature="CreateFile.CreateFileAction" count="25" />
+      <entry feature="JSDebugConfig.Debug.browser-default.preferredEngine-null.no_mappings" count="16" />
+      <entry feature="NewDirectoryProjectAction.Meteor App" count="4" />
       <entry feature="NewDirectoryProjectAction.Node.js Express App" count="3" />
       <entry feature="OpenInBrowser.Chrome" count="1" />
       <entry feature="execute.JavaScriptTestRunnerKarma.Debug" count="13" />
-      <entry feature="execute.JavaScriptTestRunnerKarma.Run" count="90" />
-      <entry feature="execute.JavascriptDebugType.Debug" count="11" />
+      <entry feature="execute.JavaScriptTestRunnerKarma.Run" count="125" />
+      <entry feature="execute.JavascriptDebugType.Debug" count="16" />
       <entry feature="execute.NodeJSConfigurationType.Debug" count="12" />
       <entry feature="execute.NodeJSConfigurationType.Run" count="16" />
       <entry feature="execute.js.build_tools.grunt.Debug" count="1" />
-      <entry feature="execute.js.build_tools.grunt.Run" count="8" />
+      <entry feature="execute.js.build_tools.grunt.Run" count="9" />
+      <entry feature="execute.js.build_tools.gulp.Run" count="1" />
+      <entry feature="execute.meteor-app-runner.Debug" count="8" />
+      <entry feature="execute.meteor-app-runner.Run" count="6" />
       <entry feature="execute.mocha-javascript-test-runner.Debug" count="4" />
       <entry feature="execute.mocha-javascript-test-runner.Run" count="11" />
       <entry feature="ide.help.Non-Project_Files_Access_Dialog" count="1" />
+      <entry feature="ide.settings.CSS" count="1" />
       <entry feature="ide.settings.Code_Completion" count="6" />
       <entry feature="ide.settings.Code_Folding" count="1" />
-      <entry feature="ide.settings.Code_Style" count="1" />
+      <entry feature="ide.settings.Code_Style" count="6" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="36" />
       <entry feature="ide.settings.Confirmation" count="1" />
-      <entry feature="ide.settings.ESLint" count="8" />
+      <entry feature="ide.settings.ESLint" count="15" />
       <entry feature="ide.settings.ESLint_Plugin" count="4" />
       <entry feature="ide.settings.Font" count="31" />
       <entry feature="ide.settings.General" count="9" />
-      <entry feature="ide.settings.HTML" count="1" />
-      <entry feature="ide.settings.Inspections" count="18" />
+      <entry feature="ide.settings.HTML" count="9" />
+      <entry feature="ide.settings.Inspections" count="20" />
       <entry feature="ide.settings.JavaScript" count="11" />
-      <entry feature="ide.settings.Keymap" count="24" />
-      <entry feature="ide.settings.Libraries" count="14" />
-      <entry feature="ide.settings.Live_Templates" count="16" />
+      <entry feature="ide.settings.Keymap" count="26" />
+      <entry feature="ide.settings.Libraries" count="21" />
+      <entry feature="ide.settings.Live_Templates" count="18" />
       <entry feature="ide.settings.Mongo_servers" count="2" />
       <entry feature="ide.settings.Node.js_and_NPM" count="1" />
       <entry feature="ide.settings.Plugins" count="2" />
-      <entry feature="ide.settings.Smart_Keys" count="1" />
+      <entry feature="ide.settings.Smart_Keys" count="4" />
       <entry feature="ide.settings.System_Settings" count="3" />
       <entry feature="ide.settings.Terminal" count="1" />
+      <entry feature="ide.settings.TypeScript" count="1" />
       <entry feature="ide.settings.Usage_Scope" count="1" />
       <entry feature="ide.settings.Vim_Emulation" count="4" />
-      <entry feature="ideaapp.started" count="91" />
-      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="5" />
+      <entry feature="ideaapp.started" count="110" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="6" />
+      <entry feature="welcome.screen.null" count="3" />
     </counts>
   </component>
 </application>
